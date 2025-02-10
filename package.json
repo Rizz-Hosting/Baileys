@@ -1,5 +1,5 @@
 {
-  "name": "@nstar/baileys",
+  "name": "@RizzHosting/baileys",
   "version": "6.8.1",
   "description": "WhatsApp API",
   "keywords": [
@@ -12,9 +12,9 @@
     "automation",
     "multi-device"
   ],
-  "homepage": "https://github.com/nstar-y/Bail",
+  "homepage": "https://github.com/Rizz-Hosting/Baileys",
   "repository": {
-    "url": "git+ssh://git@github.com/nstar-y/Bail.git"
+    "url": "git+ssh://git@github.com/Rizz-Hosting/Baileys.git"
   },
   "license": "MIT",
   "author": "Adhiraj Singh",
